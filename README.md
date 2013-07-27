@@ -19,3 +19,7 @@ then, in the loop add
 You can then call Feedback methods like fb.beep(3).
 
 See Feedback.h for further documentation.
+
+## License
+
+See LICENSE
