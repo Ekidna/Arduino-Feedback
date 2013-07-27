@@ -1,3 +1,29 @@
+/* Arduino Non-Blocking Feedback Library
+ *
+ * v0.1 - Electric Echidna, Jul 2013
+ *
+ * www.electric-echidna.com
+ *
+ *
+ * About
+ * =====
+ * This is a non-blocking user feedback library for Arduino based systems.
+ * The library avoids the use of the 'delay' function typically used for
+ * user feedback and allows code to continue running while feedback is
+ * provided.
+ *
+ * Usage
+ * =====
+ * Add fb.Handle() to the main loop then call the
+ * feedback functions like Beep,Flash and BeepAndFlash
+ *
+ * License
+ * =======
+ * http://creativecommons.org/licenses/by-nc-sa/3.0/
+ *
+ */
+
+
 #ifndef FEEDBACK_H
 #define FEEDBACK_H
 
