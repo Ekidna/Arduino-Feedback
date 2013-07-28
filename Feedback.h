@@ -19,6 +19,7 @@
  *
  * License
  * =======
+ * Copyright (c) 2013, Electric Echidna
  * http://creativecommons.org/licenses/by-nc-sa/3.0/
  *
  */
